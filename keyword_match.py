@@ -16,8 +16,6 @@ print 'Number of keywords is: '
 print len(keyword_arr)
 
 arr = [[0 for y in range(5)] for x in range(total_len + len(keyword_arr))]
-print 'Arr[3][2] is initialized to: '
-print arr[3][2]
 
 cur_node = 0
 next_open = 1
@@ -42,10 +40,6 @@ for keyword in keyword_arr:
         else:       # cur_node already has a pointer for cur_symbol
             cur_node = arr[cur_node][key]
     arr[cur_node][4] = i + 1
-    print 'terminal node added for keyword number: '
-    print i
-    print 'that terminal node is node number: '
-    print cur_node
     next_open += 1
     cur_node = 0
     i += 1
@@ -53,8 +47,6 @@ for keyword in keyword_arr:
 
 print 'Trie successfully built'
 
-print 'value of arr[0][4], corresponding to root terminal status is: '
-print arr[0][4]
 
 cur_node = 0
 start = 0
@@ -89,7 +81,6 @@ while start < len(db_string):
         if(arr[cur_node][4] > 0 ):    #current node is a terminal one!
             match_index = arr[cur_node][4] - 1
             num_matches[match_index] += 1
-            print 'match found'
             
         if(arr[cur_node][key] == 0):    #Current symbol is not in Trie!
             break
@@ -100,10 +91,18 @@ while start < len(db_string):
 
     start += 1
     cur_node = 0
-    if(start%1000000 == 0):
-        num_done = str(start)
-        print 'Index for start is: ' + num_done
-        print '\n'
+    if(start % 1000000 == 0):
+        progress = float(100*start/len(db_string))
+        print 'Percentage complete is: ' 
+        print progress
+
+e_vals = [float(0) for j in range(len(keyword_arr))]
+i = 0
+while(i < len(keyword_arr)):
+    word_length = len(keyword_arr[i])
+    e_val = float(len(db_string)/float(4**word_length))
+    e_vals[i] = e_val
+    i += 1
 
 
 print 'Number of Matches for each keyword:'
@@ -111,13 +110,14 @@ m = 0
 while(m < len(keyword_arr)):
     num = str(num_matches[m])
     index = str(m)
+    val = str(e_vals[m])
     print 'Number of matches for keyword number ' + index + ' is: ' + num
+    print 'Number of expected matches for that keyword is: ' 
+    print val
     print 'that keyword is: '
     print '       ' + keyword_arr[m]
     print '\n'
     m += 1
-
-
 
 
 

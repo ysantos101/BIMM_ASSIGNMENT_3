@@ -1,0 +1,4870 @@
+Number of keywords is: 
+605
+Trie successfully built
+Percentage complete is: 
+7.0
+Percentage complete is: 
+14.0
+Percentage complete is: 
+21.0
+Percentage complete is: 
+29.0
+Percentage complete is: 
+36.0
+Percentage complete is: 
+43.0
+Percentage complete is: 
+51.0
+Percentage complete is: 
+58.0
+Percentage complete is: 
+65.0
+Percentage complete is: 
+73.0
+Percentage complete is: 
+80.0
+Percentage complete is: 
+87.0
+Percentage complete is: 
+95.0
+Number of Matches for each keyword:
+Number of matches for keyword number 0 is: 12
+Number of expected matches for that keyword is: 
+0.813780963421
+that keyword is: 
+       AATAGCTAACA
+
+
+
+Number of matches for keyword number 1 is: 1
+Number of expected matches for that keyword is: 
+0.00317883188836
+that keyword is: 
+       ACCAAACTATAGAAT
+
+
+
+Number of matches for keyword number 2 is: 1
+Number of expected matches for that keyword is: 
+1.18420715942e-11
+that keyword is: 
+       CTCTTAATATTTATGAAGAAGAACATGGT
+
+
+
+Number of matches for keyword number 3 is: 8
+Number of expected matches for that keyword is: 
+1.18420715942e-11
+that keyword is: 
+       GCCTGGGTGACAGAGTGAGACCCTGTCTC
+
+
+
+Number of matches for keyword number 4 is: 1
+Number of expected matches for that keyword is: 
+1.18420715942e-11
+that keyword is: 
+       GATCATACCATTGTACTCTAGCCTGGGTG
+
+
+
+Number of matches for keyword number 5 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GCCGCCTTCACATTCTCAAAGGAACTCCTGGCCCCCAAACAGGGTCCGGG
+
+
+
+Number of matches for keyword number 6 is: 13
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TATTCAACATTCTTAAAGAAAAGAATTTTCAACCCAGAATTTCATATCCA
+
+
+
+Number of matches for keyword number 7 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TGGAGGCTGTTGGGGAGAACTCACTGCCTTGCCTTTTCCTGCTTCTAGAG
+
+
+
+Number of matches for keyword number 8 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GGCCTCCGAAGCGTCTCTCCTGGCTTAGAGGATAGTGGCTTGGAACCTTT
+
+
+
+Number of matches for keyword number 9 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GAGCCAGGATTTGAACTCACATTTGTCTGACTTCAAAATCCATGCTTTTT
+
+
+
+Number of matches for keyword number 10 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CCTTCCTTCCACACACCCACGAGTCCCTAGGCTGCTTTAGGAGTCTTCAC
+
+
+
+Number of matches for keyword number 11 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AGCAAAACAAGTAGGGACAATTACAAGTCCTTAGAAATGACCAGACCAGA
+
+
+
+Number of matches for keyword number 12 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CTGGCTCAGAGGGTCCTATGCCCACGGAGTCTCGCTGATTGCTAGCACAG
+
+
+
+Number of matches for keyword number 13 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ATTCATTCACTGTAACATCAGCTCCACAAAAGCAAAGAGTTTGTATACCC
+
+
+
+Number of matches for keyword number 14 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GATGAAACCCCATCTCTACTAAAAAATACAAAAAATTAGCCGGGTGTGGT
+
+
+
+Number of matches for keyword number 15 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ATCTGAGCGAGTCAATTTCCCATGGGTCCCTTCTTGCACCTCCCCAACCT
+
+
+
+Number of matches for keyword number 16 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AACAGAGCATATAAAGACCTCACATATTATAATAAAGAGAAGACAAAGAA
+
+
+
+Number of matches for keyword number 17 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ACACTCACTATAGGCCAGGCCCTGTGGTGGTGCTGAGGATGTAGGGGTAA
+
+
+
+Number of matches for keyword number 18 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TCTGTAGCTGGGATGCAGTCCTTTGAGACTCTGGGTTGGTTGCCTGCCAA
+
+
+
+Number of matches for keyword number 19 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GATTTGGATGTCATTCTGCTACCTGAAGCTAAACATGACCAACACTGAAG
+
+
+
+Number of matches for keyword number 20 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AAAAGTGAGAAGAGCCATTTCGACTTCACCCTTTGGTTGCCAGACCTCTG
+
+
+
+Number of matches for keyword number 21 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GTGTGTGTGTGTGTGTGTGAGAGAGAGAGAGAGAGAGAATCTTCAGCTAT
+
+
+
+Number of matches for keyword number 22 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TAGGTTATTCCATGAGAGTCTTGCTTCCTCCCTACATATATTCCCATGTT
+
+
+
+Number of matches for keyword number 23 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ATGATTATATTGGGGAACAGAAATTAACATGTAAATAGTTTTGTTTTTTT
+
+
+
+Number of matches for keyword number 24 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GGAGGGCTTTAAAAGCTCTGATTACTGTCCCCTGCCACCAGGATTTCTGA
+
+
+
+Number of matches for keyword number 25 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TTTATGCTAAACTAATTATAAAAATATTAAGTTTTTTTCCAGAAACTAGA
+
+
+
+Number of matches for keyword number 26 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AAATTATATAACTTTATAGAGTTTATGTTTTTAAAATTATATTTTTGGTT
+
+
+
+Number of matches for keyword number 27 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TAACAGGTTAAAGATAAAACTGATATCACATCCACTCAACCTCCCAAACC
+
+
+
+Number of matches for keyword number 28 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ATTATTAGTAAGAAGCTCTTTCTCACTTTCTAATACCCCGAGCTTTGCCT
+
+
+
+Number of matches for keyword number 29 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CAATCAGAAATAGCACACACTTTCAAATCAGTCACTTTATAAAACTATTT
+
+
+
+Number of matches for keyword number 30 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TTCATTAGAAGGATATTAGGTGGTTCACAGAATTGTCTGGAATTAAAAAA
+
+
+
+Number of matches for keyword number 31 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CCCCTTGCTGGTGGAATGTGGGCTCAGAACTGGTAAGCCATCTTCAACCA
+
+
+
+Number of matches for keyword number 32 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ATCTCAAAAAAAGAAAAAAAAAAAATAGAGTAAGCCCTGTCTAAAGACAA
+
+
+
+Number of matches for keyword number 33 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TTCTCTAGATGTTCCATTATCCAGGAACCTCCATATGTTCAGCTATCTGG
+
+
+
+Number of matches for keyword number 34 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GGTACTTCTATAACAAAAAAAAAGACACACAACATAAACGATATCTGGAA
+
+
+
+Number of matches for keyword number 35 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TTAATAAAGTCTTTGACATGTGTTCATTTTACATTGGTAAGAAGTTTTAG
+
+
+
+Number of matches for keyword number 36 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CTGAGAGAGCCAATGATGTAGTTCTCCAAAGACCTGCAGATTGGAGGCCC
+
+
+
+Number of matches for keyword number 37 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GGCAGAAGAATCACTTGAACCTGGGAGGCGGAGGTTGCCGTGAGCCAAAA
+
+
+
+Number of matches for keyword number 38 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ATGATTCCACAGGAAACATCACTGAAGAACCCTTAAGGAGTCATGAAAAG
+
+
+
+Number of matches for keyword number 39 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TCCCTAGTTATAAGTAGAACTTGATCAGGACAACGATGGGGTGGGAGTAT
+
+
+
+Number of matches for keyword number 40 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GTAATGCCATCCTCTCTCCCGTTGGATATTAGGAACAATAACACGGTGGG
+
+
+
+Number of matches for keyword number 41 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ATAAGATTGTTTACTGTTTTCTTTGCATATTCATTCCTGTGTGTATTTTT
+
+
+
+Number of matches for keyword number 42 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ATGTGTATATATATATACATATATATGTGTGTGTGTGTGTGTGTGTGTGT
+
+
+
+Number of matches for keyword number 43 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TTAAGGTTTGGTCAGTTTGAGACATACACTCTACTTGTGAGGCTCAGCAA
+
+
+
+Number of matches for keyword number 44 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CAGCCTAAGCAACAGAGTGAGACTCCATCTCAAAAAAGAACAAAAAACAA
+
+
+
+Number of matches for keyword number 45 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TCAGGCTGGGGTGGAGTGACGTGATCTTGACTCACTGCAACCTCCACTGC
+
+
+
+Number of matches for keyword number 46 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GGGTAGATTTTATTTTATTTTATTATACTTTAAGTTTTAGGGTACATGTG
+
+
+
+Number of matches for keyword number 47 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CATTGCTGGCTGGTAGAGTGTTTGAACAAGGGTCTAGGGAGTGTGGCTAG
+
+
+
+Number of matches for keyword number 48 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AGGCTGGTGTACAGTGACGTGATTATGTTTCACTACAGCCTCAACCTCTT
+
+
+
+Number of matches for keyword number 49 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TGAACCTTAAAAAGGCTCGGGTCCCGGCTGAGTTTATTCAGAATTTCTTA
+
+
+
+Number of matches for keyword number 50 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TAAAATCAAGCAAGACTCTAGGGGCTCAACTTTAATAACATAAAACATTA
+
+
+
+Number of matches for keyword number 51 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TGAACAAACACACACACACACACTTTCAATTCAATTCCTAGTACTGGGGC
+
+
+
+Number of matches for keyword number 52 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CCATACATCACAGTTTATTCATTTGTCCCTCAGTGGACAGATATTTATTG
+
+
+
+Number of matches for keyword number 53 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AATCCATGCTATTACTCCAGAGAAAGTGAAAACTTGAGTTCATCTCCCAG
+
+
+
+Number of matches for keyword number 54 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CTGGCTTTTAGTTTCCATTTGTGTGGGATATCTTTTTCTACCCCTTTACC
+
+
+
+Number of matches for keyword number 55 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AACCTGTGAATAGGTCATCACACCTGGAATAGAACATCTAGGAGACAGTC
+
+
+
+Number of matches for keyword number 56 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TTTAAAAAAAAAAAAGACAAAAATAAAATATCAACTTTTGTCACTGTGGG
+
+
+
+Number of matches for keyword number 57 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GGCTGGAGGATGAGGAGGAGGGGCACGGGTGTCAGGTGGGAAGAATTATC
+
+
+
+Number of matches for keyword number 58 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GATGAGGAGGAGGGGCACGGGTGTCAGGTGGGAAGAATTATCTCAAGCAA
+
+
+
+Number of matches for keyword number 59 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AGTTGCAATTAATCTACACCCAAACAGATTTGGGAGAGGTTATAATATGT
+
+
+
+Number of matches for keyword number 60 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TACTGAGTGTTTACTGTATAACTGGCTACATTCATTTAACACTTTCGATT
+
+
+
+Number of matches for keyword number 61 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TTAGCGTGTCACATCTGTTAAAATTGATGAGCCAATATTGACACATTATT
+
+
+
+Number of matches for keyword number 62 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CGGAGGTTGGGCCCACTAGAATAAACTGAGTCCAATACTTCTACACAGTT
+
+
+
+Number of matches for keyword number 63 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GGCTGCGTTTCTTACTGGAGGGTCTTTGGGGAGAATCCATTCCAGGCTGA
+
+
+
+Number of matches for keyword number 64 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GCCAATGATGTAGTTCTCCAAAGACCTGCAGATTGGAGGCCCAGGAAGAA
+
+
+
+Number of matches for keyword number 65 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TTACTTTTATGCTAAACTAATTATAAAAATATTAAGTTTTTTTCCAGAAA
+
+
+
+Number of matches for keyword number 66 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CTCCAGCCTGAGCAACAAGAGCAAAACTCCGTCTCAAAAAAAAAAAAAAA
+
+
+
+Number of matches for keyword number 67 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AGCAAATGGAAAACAAAAAAAGGCAGAGGTTGCAATCCTAGTCTCTGATA
+
+
+
+Number of matches for keyword number 68 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GAAAGTGCACTCATGATTTGGCTCTCTGTTTATCTGTTATTGGTATATAG
+
+
+
+Number of matches for keyword number 69 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TCAGGTAGTCTTATTTGGGTTAAGTCAGCTTGGTGTTATATGACATTCTT
+
+
+
+Number of matches for keyword number 70 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TTTATTCGTCAAGAAAGAAAAATATTTTCTTTTTTCTTTTTCTTTTTTTT
+
+
+
+Number of matches for keyword number 71 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GAAGGTACTGTTGAACAAGGACATCCCTCAGCTCCTTGGGAAGTAGTGTA
+
+
+
+Number of matches for keyword number 72 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AATTTCAAATGAACGAGGAGGGACTTTTACAATATAACACTATTTTCATA
+
+
+
+Number of matches for keyword number 73 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ACCCTTAATTAATGGCTGAATCTAATGTGTTCCTTTTTAGTTGTTCTATA
+
+
+
+Number of matches for keyword number 74 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TTAAAAGTACTGCTTGCAGCCGGTTGTAGTGGCTCACACCTCTATTCTCA
+
+
+
+Number of matches for keyword number 75 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TGGTTCTGAATTTGACTTTTTCCTTAATCACCATATTTATTTATCTTAGA
+
+
+
+Number of matches for keyword number 76 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TCTGTAAAATTAAATTAAATTAAATCGCATATACTCATTACTTTTTGACT
+
+
+
+Number of matches for keyword number 77 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ATTAGCTGAACTAACGTTTTCTCGCAAAATAAATAATTCTGAAAGAAAAT
+
+
+
+Number of matches for keyword number 78 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GGGCGACAGAGCTAGACTCTGTCTCAAAAAAAAAAAAAAAAAAAAAAAAA
+
+
+
+Number of matches for keyword number 79 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GAATTTGACTTTTTCCTTAATCACCATATTTATTTATCTTAGAAAATAAA
+
+
+
+Number of matches for keyword number 80 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CTTATCTTCTTCTCCGCCCTACCCTTCCCACTCAGCCTCTAATTACCACA
+
+
+
+Number of matches for keyword number 81 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ATTTTTGGCCTTTTGAGAGGCCCCCAGCTCTAAAATATTAACACTTACTT
+
+
+
+Number of matches for keyword number 82 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TCGTCTGAGATGTGGGGAGCACCTCTGCCCCGCCGCCCTGTCTGGGATGT
+
+
+
+Number of matches for keyword number 83 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GGTCTAGTGAATGTTATCCTAAACATATAGCAAGAGGAAAGGCTGAAAAT
+
+
+
+Number of matches for keyword number 84 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TCATACTTGTAAAACAATTAGGAATTAAAGCTTATTGGATGGAGACTGCT
+
+
+
+Number of matches for keyword number 85 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ACCAATGCATATTAGCTATTTGTATTTCTTCTTTTAGGATCCAGTGTATT
+
+
+
+Number of matches for keyword number 86 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CAATGTTCCAAAGTTAGAGAGGTCATTGACCTGGCAGTTGTCTTCGCAAG
+
+
+
+Number of matches for keyword number 87 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ATAAGGAAATTGGTATGAGTCTGTATTTTTAATTTTTATTGGAAATAATT
+
+
+
+Number of matches for keyword number 88 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CTACCAAGCAAATGGAAAACAAAAAAAGGCAGAGGTTGCAATCCTAGTCT
+
+
+
+Number of matches for keyword number 89 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TACAGAACACGTCATTGCACATGGTCATCAGTATGTAAAAGAAATGGAAG
+
+
+
+Number of matches for keyword number 90 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ACTGTAGGTTTAATATATGGCCATTGTCTAGAAGACACTGTAAACTCAAC
+
+
+
+Number of matches for keyword number 91 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TGACAACATAGGACCATAAATTCTTTTCCTTGTGTCCAATGTTAAGGCTT
+
+
+
+Number of matches for keyword number 92 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TTTAAACTTTTATTATTTTTCAAATAAATCAGTAAACAACATCATAAAAA
+
+
+
+Number of matches for keyword number 93 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TAGTGTTTGTTCCCTGATGGTAATTTAAATAGTTTCTTGTTTTGAGTGTC
+
+
+
+Number of matches for keyword number 94 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TGTATTTTCAGTAGAGATGGGGGTTTCACCATGCTGGCCAGGCTGGTCTT
+
+
+
+Number of matches for keyword number 95 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AGGTGTGGTGGCGGGCGCCTGTAGTCCCAGCTACCCTGGAGGCTGAGGCA
+
+
+
+Number of matches for keyword number 96 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ATAAATACTTGAGAGGTGATGTTTATTACAAATATCTGAAATATATACAT
+
+
+
+Number of matches for keyword number 97 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TAAAGACCAAGGCCTAGGATGGGTAAGAATAAAATTCCTAAAATATTTTA
+
+
+
+Number of matches for keyword number 98 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TTTTTTAAGTTGAAAACTAAGGTTCGATTTTTATGTTATTATTCAACAGG
+
+
+
+Number of matches for keyword number 99 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TACAAACAAATGGAAGAATATTCCATGCTCATGGGTAGAAAGAAACAATA
+
+
+
+Number of matches for keyword number 100 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CTCTTTGATGGCTATCATTTGTGACACCATGGTATTCTAGGCACTTTTTA
+
+
+
+Number of matches for keyword number 101 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AATTAAGGTGGTAGGAGTGATAATGAAGGTGGTAGTGGCAGTGGGTGTTA
+
+
+
+Number of matches for keyword number 102 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TCCTCCTCTGCTGAAAATGCTCTGAGGACCCCCCCTATCACTTAGAGTAA
+
+
+
+Number of matches for keyword number 103 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ATATCCATGAAAGTTTGCATTTTTGTGATGAAGAAATTGGAGTAGACATG
+
+
+
+Number of matches for keyword number 104 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TTTCAGATATTTCTTTTTCATTGGAATCCTTTGCTGGAGAATTGTGTTTC
+
+
+
+Number of matches for keyword number 105 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CACAATGTTAGGAGTCTACTCCTCAGATAGAATTTAATGAATGACCCAGA
+
+
+
+Number of matches for keyword number 106 is: 2
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GAAGCTCTACAAGCCAGAAGAGAGTGGGGGCCAATATTCAACATTCTTAA
+
+
+
+Number of matches for keyword number 107 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TGAAGACATTTTAGCCAACAACCAAAGACTTAAACTTTACAAAAGATGTG
+
+
+
+Number of matches for keyword number 108 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AAGAATTGGGACTTGGATAACCGGAGTAAAAAAAATACTCTGACTATTGT
+
+
+
+Number of matches for keyword number 109 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TGCTGTCATGAATGCTGACATAAGTGGGAATGCTATGCCAGGTAATGTCA
+
+
+
+Number of matches for keyword number 110 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GGTTGGGCCCACTAGAATAAACTGAGTCCAATACTTCTACACAGTTATGT
+
+
+
+Number of matches for keyword number 111 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CTTTTTGGTTGGTAAGCTATTGATTATTGCCACCATTTCAGCTCCTGTTA
+
+
+
+Number of matches for keyword number 112 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ATTTTGTATAATGTCCCTCAAATTGTGTTTGTCTGATGTTTTTCTTTTGG
+
+
+
+Number of matches for keyword number 113 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ACAAGGTGTTTATTTCACCTGGGTGCAGGCGGGCTGAGTCTGAAAAGAGA
+
+
+
+Number of matches for keyword number 114 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CAGCATCAACAAAAAGGATGCCCACACAAAAATGCCATCTGAAGGTCACC
+
+
+
+Number of matches for keyword number 115 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AACAATTAGGAATTAAAGCTTATTGGATGGAGACTGCTGAAAAAAGGCAA
+
+
+
+Number of matches for keyword number 116 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TAATCTCAACAACACATAATTTACTCAGTATAGTTCTATCTCCTTTGTCA
+
+
+
+Number of matches for keyword number 117 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GCTATGAAACATTACTGAATCAATTTCTGGATAATGTGGTGAAAGATTCA
+
+
+
+Number of matches for keyword number 118 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AGCATCAATTAACTACCATTCAAAATGATTCAGCAATTAGCCCCTTATCA
+
+
+
+Number of matches for keyword number 119 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CTGGTGCCTTTCTGATTTTGTGGCTGAGGAATCCCACGCCCTCCTCCTAT
+
+
+
+Number of matches for keyword number 120 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TATTGCAGCTAAGTTTTTGTTTACTATTGAAATTAAGTTTGTATTAATCC
+
+
+
+Number of matches for keyword number 121 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TTGTTATTTTTAATTTTTGTGGGTACATAGTAGGTGTGTATATTTACAGA
+
+
+
+Number of matches for keyword number 122 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TGTTTGGCCTTCCATAGGATATTTCTGAAGCGCAGCTTTTAGTGGAATTC
+
+
+
+Number of matches for keyword number 123 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AACCCAAAATGATTTTTTAAACTAGAGACTAATGTGTTCTTAATTGACAA
+
+
+
+Number of matches for keyword number 124 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GATAAAACTCAAGTGCTAAAAGGCTAAAGTAACTTTTATATATATTTTTA
+
+
+
+Number of matches for keyword number 125 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GCTGATGGCACAATGTTAGGAGTCTACTCCTCAGATAGAATTTAATGAAT
+
+
+
+Number of matches for keyword number 126 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AATGGATTGTGAAGTTCACTGGGTAGTCCTGGGACAGAGTTGGTCACATT
+
+
+
+Number of matches for keyword number 127 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GGCTTAAAAAAAAGGCAAGCAGAGATAAAAGAAATTGTGGGTATAAATGT
+
+
+
+Number of matches for keyword number 128 is: 2
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TACACACAAAATTACAGAACACGTCATTGCACATGGTCATCAGTATGTAA
+
+
+
+Number of matches for keyword number 129 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TGAGATGTGGGGAGCACCTCTGCCCCGCCGCCCTGTCTGGGATGTGAGGA
+
+
+
+Number of matches for keyword number 130 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GACAAAAATAAAATATCAACTTTTGTCACTGTGGGCAGGAAATATGAAAT
+
+
+
+Number of matches for keyword number 131 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TCAGCATTTTCCTAATTTGGAACCCCTGGAGGCTACTCTGACTAAAACAG
+
+
+
+Number of matches for keyword number 132 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AAGCAGGAGAAGCAGAAGCAGTAGAAGCAGCAGCAGCAGAAGCAGCAGAA
+
+
+
+Number of matches for keyword number 133 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TGCAGCCTCAGCTTGGCTGGTCGAGGGCAGGCTGGATTTCAGCCTCTTCT
+
+
+
+Number of matches for keyword number 134 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TGTGTAATCTATTCATTCCTCTCTTTATATTGCATGTTACCTCATTTATT
+
+
+
+Number of matches for keyword number 135 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CCTGCAGCTTTCCCAGGCACTTTGTGCAAGCTGTCGGTGGATCTACCATT
+
+
+
+Number of matches for keyword number 136 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CATGATGAAACCCCATCTCTACTAAAAAATACAAAAAATTAGCCGGGTGT
+
+
+
+Number of matches for keyword number 137 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AATAGATCTAAGACCTTTAAAAATTAGGAAATTATATATAACTGTCTGTA
+
+
+
+Number of matches for keyword number 138 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CAGGGATCATTTCACTCATTTATGTCACTTGTCTGCTTCCTTTAGGCATA
+
+
+
+Number of matches for keyword number 139 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TGGCTCTATGGATTTCAGACTGGACTTACACAATTGTATAAGCCAATTTA
+
+
+
+Number of matches for keyword number 140 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GTGGCTACATTAGTCAGATTTGGGCTATACTAATTCTGGGTAGCAAACAA
+
+
+
+Number of matches for keyword number 141 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GTTTCGCTAGTTTATCAGGTATTTGATCGTTTATTGCTATTTCCCTTTTA
+
+
+
+Number of matches for keyword number 142 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AGACTGAATAATATTGTACACACACACACCCATACATCACAGTTTATTCA
+
+
+
+Number of matches for keyword number 143 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ACAGAGCATATAAAGACCTCACATATTATAATAAAGAGAAGACAAAGAAC
+
+
+
+Number of matches for keyword number 144 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GTAATCGGCTTTTATCTGGGGCAAATACCATCTTAAATACAAATGTAAAT
+
+
+
+Number of matches for keyword number 145 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CAAAAGAGTCTGACCTTAAAAATATAACAAATGAAAAACCTTTTCTCAAA
+
+
+
+Number of matches for keyword number 146 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GTCTTGTGCCTTTATGAAATGGAAAAATCCAGACACAGACATACACACAG
+
+
+
+Number of matches for keyword number 147 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AAAACTCCATCCAAGACAATGTCTAGGTTTCCCTCCAGTGTTTTAATTTT
+
+
+
+Number of matches for keyword number 148 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ATTTTCTTTTTAGTTTCTATATATTTAAATATCAGAGATATTGCTCTATA
+
+
+
+Number of matches for keyword number 149 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TACTTAAGCACCTTTAAGTATATTAGGTACTGCAGCCATTGTCCAACAAT
+
+
+
+Number of matches for keyword number 150 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ATATATAGCATAGTGATGACTGGTTTATGGAAAAGTCTTGGACTACCTTG
+
+
+
+Number of matches for keyword number 151 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GGAACAAAAGGCTTAAAAAAAAGGCAAGCAGAGATAAAAGAAATTGTGGG
+
+
+
+Number of matches for keyword number 152 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CATATTTAAACATAGCTTCAATTGCTGTCTTCCCACCCCCATTTTTACAG
+
+
+
+Number of matches for keyword number 153 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TGGTGACTATTTGAAACCATTTAAGAGGGTTTTCCCTCAGAGGAACATTC
+
+
+
+Number of matches for keyword number 154 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CCTGCCTTGGGTTTCCCACCCCAATCCCATACACCAGGCCCTAGCCATTC
+
+
+
+Number of matches for keyword number 155 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AGCCATCGGCAGAAATGGCTTATTTCCTTTTCTCAATATTTTTTTCGTAC
+
+
+
+Number of matches for keyword number 156 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AGCTGAGGTTTCATGGGGTCACAGGGCACAATGGTTCATTCAATAATTAA
+
+
+
+Number of matches for keyword number 157 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ACTGTCTCTGGGCTTATTTCGACACTAAGACTCTCCTAGGAGTTGCCATC
+
+
+
+Number of matches for keyword number 158 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CTTCCCCTGGGAACTCGGCAGGCTTAGGCCAAATCTACCCAAGCGAAAAT
+
+
+
+Number of matches for keyword number 159 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TATATCCTCTTGGTGAAATGTTTGTGAGCATCTTTCTGTGTCAGTGTCCA
+
+
+
+Number of matches for keyword number 160 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TGTAATCCCAGCACTTTGGGAGGTCCAGGCAGAGGCAGGCAGATCATGAG
+
+
+
+Number of matches for keyword number 161 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AGTGACGTGATTATGTTTCACTACAGCCTCAACCTCTTGGGTTCAAGCAA
+
+
+
+Number of matches for keyword number 162 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GTAATGGTCTCCATTGAGGTAGTTACTTTCGCCACCTCTCTTGGCTTTTG
+
+
+
+Number of matches for keyword number 163 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AAACATTACTGAATCAATTTCTGGATAATGTGGTGAAAGATTCAAAGGAA
+
+
+
+Number of matches for keyword number 164 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TTTGCACCCTTATGTGAAGCAGCTGGGTTAGAGCTTCCTCCATGACATTA
+
+
+
+Number of matches for keyword number 165 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ATCAAGTTTGATCTAGGGCTTTATTAGGGAAAGTCAATGTTAAATACCAA
+
+
+
+Number of matches for keyword number 166 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TTCAGGCCAATATCCTTGATGAACATCAATGCAAAAATCCTCAATAAAAT
+
+
+
+Number of matches for keyword number 167 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CCTCAGTCTTCCAAGTCTCCACCACGACTTGGAGCATTTGAGAGACTATA
+
+
+
+Number of matches for keyword number 168 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GAGTTTGATTGAACTTATATTGTGTTTTTAATGACAATCTGCAAGACACT
+
+
+
+Number of matches for keyword number 169 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CATGCTATTACTCCAGAGAAAGTGAAAACTTGAGTTCATCTCCCAGGAGT
+
+
+
+Number of matches for keyword number 170 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CTGCAGCCTCAACCTCCTGGGCTCATGCAATCCTCTCACATCAGCCTCCA
+
+
+
+Number of matches for keyword number 171 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TCCCAACACAAAGATACTAAACTTGAGGTCCTTGGAAATTCTGCTTGGTA
+
+
+
+Number of matches for keyword number 172 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TGCGCCACTGCACCCCAGCCTGGGTGACGGAGCAAGACCCTGTCTCAATA
+
+
+
+Number of matches for keyword number 173 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TTATCTAAAGCAAGCCAGATGGACACAAAGCTTTTAGTTGACAATGCAGG
+
+
+
+Number of matches for keyword number 174 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TAAAGGTTTTGGTCTAGTCTTGGTTACTCTGGGAAAGTGTGTGTAGCCAT
+
+
+
+Number of matches for keyword number 175 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TAGTAAGAAGCTCTTTCTCACTTTCTAATACCCCGAGCTTTGCCTGAATT
+
+
+
+Number of matches for keyword number 176 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TGGGCCCACTAGAATAAACTGAGTCCAATACTTCTACACAGTTATGTTTG
+
+
+
+Number of matches for keyword number 177 is: 2
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AAAAAGAATGAAAATAGATCTAAGACCTTTAAAAATTAGGAAATTATATA
+
+
+
+Number of matches for keyword number 178 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CTTCTTTCAGCTCAGAGTCAAAAGAAGAGTAAATGTTTTCGAAAGTGACA
+
+
+
+Number of matches for keyword number 179 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AATTCTAGTATTAATTTTGTTGGATGGAATACTAAAGCATAGATATTTGA
+
+
+
+Number of matches for keyword number 180 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AAAAATCCTCAACAAAATGGTCCAGCCGGCTACTAGTCCACACACTCCAA
+
+
+
+Number of matches for keyword number 181 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ACTGCTCCCTATAGCCCTCTGATGCAGGTACTATTGTTATCCCCATTTTA
+
+
+
+Number of matches for keyword number 182 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TTTGAATCGAGGCTTTATCATATACTATTTCTGTGATCTTGAGAACATTT
+
+
+
+Number of matches for keyword number 183 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TTTTCTAGGTTTATATGCAGTTAGCGTTTCTTTTTTTTTTTTTTTTTTTG
+
+
+
+Number of matches for keyword number 184 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CTTCTCAGCCACCATAATCATATGAGCTAATTCCTTGTAAGTATATGCTA
+
+
+
+Number of matches for keyword number 185 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CCATTATCAAATCTTCAGATCTCATGAAAGCTTACTATCACAAGAATAGC
+
+
+
+Number of matches for keyword number 186 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TTTTTCTTAGTATTTAAAATTATATAACTTTATAGAGTTTATGTTTTTAA
+
+
+
+Number of matches for keyword number 187 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ACCGCTATGCAATAGATTACTACTCAGCAATAAAAGAAACAAACCAATGA
+
+
+
+Number of matches for keyword number 188 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AGTAGTTTCACTGCTTTAAAAATCCTCTGTGTTTTGCCTATTCGTCTCTC
+
+
+
+Number of matches for keyword number 189 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ACCATATGGCAGTTCTATTTTTAATTTTTTGAAGAATCTCCATACTATTT
+
+
+
+Number of matches for keyword number 190 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AGTGGTCATTGTTCCAAGTCCAGCCCAACAAGTGGTTATTCTTATTCAAG
+
+
+
+Number of matches for keyword number 191 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CCTATAGCCCTCTGATGCAGGTACTATTGTTATCCCCATTTTACAGATGG
+
+
+
+Number of matches for keyword number 192 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AAACTTCAGCACAGCCGTCTGGCCAGTATTCCTGGAGTATATAACACTGA
+
+
+
+Number of matches for keyword number 193 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GTACTAAGAGTGATAGGATGGCCTTGGCCATCTCTGGATTTGAATCAATT
+
+
+
+Number of matches for keyword number 194 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GTTTTAAAACGTCAAATGCAAATGAAAATCAAGGCTAGACTATACTTTAC
+
+
+
+Number of matches for keyword number 195 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TGGTTGAAATATATATATATATATAACTTTTAAGTTTTCCCATGAATTTA
+
+
+
+Number of matches for keyword number 196 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TAATCATATGAGCTAATTCCTTGTAAGTATATGCTATTTTCAGAGTTGTA
+
+
+
+Number of matches for keyword number 197 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CTCATATTCTATGTCTGTGTAAATTTCCTCCCTTATATCCCTGAAATTCT
+
+
+
+Number of matches for keyword number 198 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ATGAAGCTGAATCACGGGTCACTCAGCATTTTCCTAATTTGGAACCCCTG
+
+
+
+Number of matches for keyword number 199 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GAGTTGTTCAATTTCCTTATCTATTTGCTTATTAACCCCTTATCAGATGT
+
+
+
+Number of matches for keyword number 200 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ACTAGCTCCAGAAGAAAATCTAAAATCCTTGCCTCATCCTCAAGGCTCTA
+
+
+
+Number of matches for keyword number 201 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GCCCAGAAGGAGGCAGAGACAGAATATGAGTGGGCACTAATGGCTGTGAC
+
+
+
+Number of matches for keyword number 202 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TTACAGTAAGCTAACATTAATTTATTCGTCAAGAAAGAAAAATATTTTCT
+
+
+
+Number of matches for keyword number 203 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TGTGTCCCACACTTGCTACTAATTACAAAATTGTCTACTAGGTGTTGCAG
+
+
+
+Number of matches for keyword number 204 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CCAACTGTAAAATGCTATATTTTTGGCCTTTTGAGAGGCCCCCAGCTCTA
+
+
+
+Number of matches for keyword number 205 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TATTTTGTTTCTGGATATAGACATGTGTATAAGATTAATCAAAATAACTG
+
+
+
+Number of matches for keyword number 206 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ATTCAAATGACAGTACGTTTTTTGTCAGAAACCACAAAGGCCAGAAAGAA
+
+
+
+Number of matches for keyword number 207 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GAAGACAGGCCTCCGAAGCGTCTCTCCTGGCTTAGAGGATAGTGGCTTGG
+
+
+
+Number of matches for keyword number 208 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CGGCCGCCCATCGTCTGAGATGTGGGGAGCACCTCTGCCCCGCCGCCCTG
+
+
+
+Number of matches for keyword number 209 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TAGAAAAAAATATCTTTCCAATTCTGTAGTTTCTGTAGAGCTAGGAATGA
+
+
+
+Number of matches for keyword number 210 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GAGCAACCGCTAGTTGCCATCACGGCTCATTATATGCTAATTATAGTGTA
+
+
+
+Number of matches for keyword number 211 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CTTGCTCTGGGGAAAAAAGGTCAATGTAACAACTCTTCTTAATAGAGTCT
+
+
+
+Number of matches for keyword number 212 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CTTTCATATCGCGGAGTACATCATCAGAGTAAATTCCTAGGAGTAAGATT
+
+
+
+Number of matches for keyword number 213 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CCATCTTCTACTAGCCTGCAGGCTTTTTGAAGACAGGAAATCATAGTTAT
+
+
+
+Number of matches for keyword number 214 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TTGTAAAACAATTAGGAATTAAAGCTTATTGGATGGAGACTGCTGAAAAA
+
+
+
+Number of matches for keyword number 215 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TCTGGTCTAGTGAATGTTATCCTAAACATATAGCAAGAGGAAAGGCTGAA
+
+
+
+Number of matches for keyword number 216 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GAGGGCATGGCTGTTTAAAAGAGCCATTTTTTGTTCTCAAGTCCTTAACT
+
+
+
+Number of matches for keyword number 217 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TGCTACACCCAAGTTTAAAAAATATTTAGCATGTGATAAAGATACATTTC
+
+
+
+Number of matches for keyword number 218 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TCAGCTTCCCAAACAGACGAGGGAGAGAGAGAGAGAGAACAGTTTTAGAG
+
+
+
+Number of matches for keyword number 219 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TTCCCTTTATACGTCTTTAATGTAAAACAAAAGAAAAAGAACTGCCACCC
+
+
+
+Number of matches for keyword number 220 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CTGAGGTATGGGCAGGGCTGCGTTTCTTACTGGAGGGTCTTTGGGGAGAA
+
+
+
+Number of matches for keyword number 221 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TGGCTAACATGATGAAACCCCATCTCTACTAAAAAATACAAAAAATTAGC
+
+
+
+Number of matches for keyword number 222 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TACCCTCTGTCAAATGTAAATTAAATTCCACCATAAAATTTATATTCTCA
+
+
+
+Number of matches for keyword number 223 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GATATCCATTTCCCTCTCCATTTTTGTCTCCCTCTCTTGGTTTCTAAAAT
+
+
+
+Number of matches for keyword number 224 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TGTTATCCTAAACATATAGCAAGAGGAAAGGCTGAAAATATTAGTGTATA
+
+
+
+Number of matches for keyword number 225 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ACATGTGTATATATATATACATATATATGTGTGTGTGTGTGTGTGTGTGT
+
+
+
+Number of matches for keyword number 226 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TTTTTATTAAGTGCAGCAGAAAACTGTAGGTTTAATATATGGCCATTGTC
+
+
+
+Number of matches for keyword number 227 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AAAGGATTACTAGGTAGAATGATTATATTGGGGAACAGAAATTAACATGT
+
+
+
+Number of matches for keyword number 228 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CTTTATAACAACCACAAGAACACGAAACTCCTGTAACTAGCCAAAGTAGT
+
+
+
+Number of matches for keyword number 229 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GCACTTTGGGAGGCCGAGGCAGGCGGATCATGAGGTCAGGAGATCGAGAC
+
+
+
+Number of matches for keyword number 230 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GGGGGTTTCACCATGCTGGCCAGGCTGGTCTTGGACTCCTGACCTCAGGT
+
+
+
+Number of matches for keyword number 231 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CACCACCTGAAGTAGGCATATCTGATATGGAATTTCTAATTACATGTTTT
+
+
+
+Number of matches for keyword number 232 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TATTACATCTGCTACTGAATTCAAGCTTCTTTGATAAGTTATTTTTGTTG
+
+
+
+Number of matches for keyword number 233 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GTCTCAAAAAAAAAAAAAAAAACAAGAAGACCTTGCATTCTTTTCTCTTG
+
+
+
+Number of matches for keyword number 234 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TGCATTAACTTTAAAAAAAAAAAAGACAAAAATAAAATATCAACTTTTGT
+
+
+
+Number of matches for keyword number 235 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CAACAAGTGGTTATTCTTATTCAAGAATGAAGTGGAAATCTGAGTTCAGA
+
+
+
+Number of matches for keyword number 236 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TTCTAAATTGTTTAATTTTGGTTTGCGGGAGATTATTTTGTGATCCTGGT
+
+
+
+Number of matches for keyword number 237 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CATGCTAAGGGCTTGTTAAATAAGCAACATGAAGAGCATCAATCAGGTTG
+
+
+
+Number of matches for keyword number 238 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GAAGGTCAGCAAAGTATAGCATGAGAGAAGCTCCCACTGGGTCCAACCCA
+
+
+
+Number of matches for keyword number 239 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GCGCGGGGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGTCCAGGCAGA
+
+
+
+Number of matches for keyword number 240 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TGTAGGGTAAACCTTCTTTCACTTGTTTGCTTTTGAAAAGGTCTCTTAGA
+
+
+
+Number of matches for keyword number 241 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CCAGTCTGTACTAAAAATACAAAAATAAGCCAGGCGTGGTGGTACTTGCC
+
+
+
+Number of matches for keyword number 242 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CATGCGTGTGTGTGTGTGTGTGTGTGTGTGTGAGAGAGAGAGAGAGAGAG
+
+
+
+Number of matches for keyword number 243 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TAAAAAAGTTTCGCTAGTTTATCAGGTATTTGATCGTTTATTGCTATTTC
+
+
+
+Number of matches for keyword number 244 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CCAGGCTGGTCTTGAACTCCTGGACTCAAGCAATACACCCTCCTCGCCCT
+
+
+
+Number of matches for keyword number 245 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CAATATCCTTGATGAACATCAATGCAAAAATCCTCAATAAAATAAGTAAT
+
+
+
+Number of matches for keyword number 246 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CAATGTTTTTGATGGGGACAGGGTTCGAAAAAATCCGAGCTGCAGAAATG
+
+
+
+Number of matches for keyword number 247 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AGGGATTCTTCAGTTCCATTTTCTAACTGGCTGACCTTGGAGTACCTGCT
+
+
+
+Number of matches for keyword number 248 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ACAGGTTCACTTATTTGTGAATTTTCTTCAGTTTCCGGCACCCTAGACAG
+
+
+
+Number of matches for keyword number 249 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TATGTCTCCCATCTTTACCTTGTGCTTCCGTAACTACTCCTACTTAGACA
+
+
+
+Number of matches for keyword number 250 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CATAGAAAAAAAGGCTTTACCCACTCAAACATCGTAAGTACATTAACACA
+
+
+
+Number of matches for keyword number 251 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TTTGGTTTTGCCTCAGTTATAATTTAAGCACATTTTTAAATATCTGTCAG
+
+
+
+Number of matches for keyword number 252 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GCTAAAATGAATTGTCTAATATTCTGATTGCTGTACATATTTTAATACAT
+
+
+
+Number of matches for keyword number 253 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TATGTTCAAGCAACTAGAGTATATTTTGAATATGTGAAGACATAGAAGAT
+
+
+
+Number of matches for keyword number 254 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ATGAAGAAAAACCAGTGCAAAAAGCCTAAAAATTCAAAACCCGGAATGTC
+
+
+
+Number of matches for keyword number 255 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GAAGCTAAAAAAGCATCTTGCCAGCTTTGTGATCCAGGGATGTCTTTCTC
+
+
+
+Number of matches for keyword number 256 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GGGTCTTGCTGTGTTGCCCAGGCAGAAGTACAGTGGAGTGATCATAGCTC
+
+
+
+Number of matches for keyword number 257 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TCTGAATTTGACTTTTTCCTTAATCACCATATTTATTTATCTTAGAAAAT
+
+
+
+Number of matches for keyword number 258 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TTTGTCTTTTTTTTTTTTTTTGCATAATGTTTAATTTGGGGTTTACGGAA
+
+
+
+Number of matches for keyword number 259 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GAGAAAAAATAATTAATTTGGCTTGGACCATTCTGGTACAAAGGTCCAGT
+
+
+
+Number of matches for keyword number 260 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CACCCTACTGGTACTATTTACTGTATTAGTTCATTTTTATACTGCTATGA
+
+
+
+Number of matches for keyword number 261 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AAAAAGGCTTTACCCACTCAAACATCGTAAGTACATTAACACAGTATTTT
+
+
+
+Number of matches for keyword number 262 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AAATATTTAGCATGTGATAAAGATACATTTCAAATTATTGAAAGAAAGAA
+
+
+
+Number of matches for keyword number 263 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TCCCTCATTTTTTACTAGTTTATCTTCTCCTGAATAGAATGAGAATGCAT
+
+
+
+Number of matches for keyword number 264 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CCAGAGTAGTGGTTTCCAAATTATTACTGTGGAGTCCAAAACTTTGTGCA
+
+
+
+Number of matches for keyword number 265 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ATGGACTCTTTACTTATCTCTCTGGACTTGCATTTCCTCTCTATAAAATT
+
+
+
+Number of matches for keyword number 266 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CACACGTATGTTTGTTGTAGCACTGTTCACAACAGCAAAGACTTGGAACC
+
+
+
+Number of matches for keyword number 267 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TGCGTTGGCTCTTCTATGTGAAATATAAAAATAAAAGCAACACCTTAATT
+
+
+
+Number of matches for keyword number 268 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TTTGATAGGGGTACACACACACACACACACACACACACACACACACACAA
+
+
+
+Number of matches for keyword number 269 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TTGATGGGGCTGGGCTGCTCTAACCAGTATTTGGTGGAAGACTTCCAAAA
+
+
+
+Number of matches for keyword number 270 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TAAAGACCTCACATATTATAATAAAGAGAAGACAAAGAACTTAGTGAAAG
+
+
+
+Number of matches for keyword number 271 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ACTAGGCAACTCGCTTGCCTTACCCTAGTGCTTTCACTGGCAAACTAAAG
+
+
+
+Number of matches for keyword number 272 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TAGCTGGCTTGGCCTGGAGACCATGTTTGGGATTTGAGTTCTGTCGTAAG
+
+
+
+Number of matches for keyword number 273 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GTAGTTTCTGTAGAGCTAGGAATGACAATTAATATGCTGGAGATCAGAGT
+
+
+
+Number of matches for keyword number 274 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TCCACAAAGGTTGAACTAATTTACACTCCCACCAACAGTGTAAAAGCGTT
+
+
+
+Number of matches for keyword number 275 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AGTATAATGGGTGGAATCCAGAGGCTGGGATAGAGATTGTCTTCAGAATC
+
+
+
+Number of matches for keyword number 276 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TCAGGTGATCCTTCCACTTCAGTCTCCTGAGTAGCTGGGACTACTGACAT
+
+
+
+Number of matches for keyword number 277 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TAGCCAAAGGTCTCTACATTTTTAGATGGATGGACACTGGACTCGCCATG
+
+
+
+Number of matches for keyword number 278 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TGGAACTTTATTTCTTTGTTATTTTTAATTTTTGTGGGTACATAGTAGGT
+
+
+
+Number of matches for keyword number 279 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GCTCCCTATAGCCCTCTGATGCAGGTACTATTGTTATCCCCATTTTACAG
+
+
+
+Number of matches for keyword number 280 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CCAGGCATCAGTATTTTTTAAAACTCTCCAGACAATTCCAATATAGAGCC
+
+
+
+Number of matches for keyword number 281 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GCTTCAGCTGAGAGCTCTGGGGCTCTGTTGTCTGTAGCTGGGATGCAGTC
+
+
+
+Number of matches for keyword number 282 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ACCCTGAGACAGTCTGATTCAGTGGGAATTTGTATTTTAACAAGCATGCT
+
+
+
+Number of matches for keyword number 283 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ATGGGGCTATAGCCAAATGGATTGTGAAGTTCACTGGGTAGTCCTGGGAC
+
+
+
+Number of matches for keyword number 284 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ATTTATGTCACTTGTCTGCTTCCTTTAGGCATATGAGCTTGCTACTTCTC
+
+
+
+Number of matches for keyword number 285 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TGAGATATGTCAACGGAGTATTGCTTCACCAGAATTTGAGTTCTCACCAC
+
+
+
+Number of matches for keyword number 286 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CAGCTTTTGCAAGCTTTATAGATATTTTAGTATGAAGGTGAGAGAGGCCG
+
+
+
+Number of matches for keyword number 287 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GTCCCACCATGTGCCCAGAAGGAGGCAGAGACAGAATATGAGTGGGCACT
+
+
+
+Number of matches for keyword number 288 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CAGCAGAACACTTACTCTATTTTATACAATGAGATGTTGCCCAATTCTAG
+
+
+
+Number of matches for keyword number 289 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TATATAAATTTTTCCGGAAGCTAAAAAAGCATCTTGCCAGCTTTGTGATC
+
+
+
+Number of matches for keyword number 290 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GCAGCAGAAAACTGTAGGTTTAATATATGGCCATTGTCTAGAAGACACTG
+
+
+
+Number of matches for keyword number 291 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CCTAATGTGTCGTGGCCTACCACTACCCTGGGATTAAGACATGCAGAGAC
+
+
+
+Number of matches for keyword number 292 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CTTCATGTTGCAGTTAAAAAAAAAAAAAAGTATCCTAGTTCTTTCAGAAC
+
+
+
+Number of matches for keyword number 293 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AAGGGTCCATGATAATTTGCTAGGTTGAAAACTGTTACTTTAGGTTTCTT
+
+
+
+Number of matches for keyword number 294 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TTAAAAACATATATTAAGTTTTATTATATATAAATAAGTTTAAATGGTTG
+
+
+
+Number of matches for keyword number 295 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AACTGAGATGTCTAAAAAAGTTTCGCTAGTTTATCAGGTATTTGATCGTT
+
+
+
+Number of matches for keyword number 296 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GTACATCCATACTAATACATGCTACAACACGGATGAACTTTGGAAAATTA
+
+
+
+Number of matches for keyword number 297 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AGTCCAGCCCAACAAGTGGTTATTCTTATTCAAGAATGAAGTGGAAATCT
+
+
+
+Number of matches for keyword number 298 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AAAAGCATCTTGCCAGCTTTGTGATCCAGGGATGTCTTTCTCAAGGACCT
+
+
+
+Number of matches for keyword number 299 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TGAGACCAGCCTGGCCAACATGGTGCAACCCCGTCTCCACTAAAAATACA
+
+
+
+Number of matches for keyword number 300 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CAATAATAAAGTAGGGATGTAAAGAGATAATTAGAATCAGCCCCCACCGC
+
+
+
+Number of matches for keyword number 301 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TGAAGGCTCTAGGAAAGATTCTTTCTTTACTTCTTACTGGCTTCTGGTGA
+
+
+
+Number of matches for keyword number 302 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TTGATTATTTTTTCCGTTCTAAGATTTCTATTTGGTTATTTTCCTTCTAC
+
+
+
+Number of matches for keyword number 303 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GAACATTTAGATTATCTAGAGATGCCATCATGTGAATTTAGCCTATTATT
+
+
+
+Number of matches for keyword number 304 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TTAGAGTAGCACCTACCTTAAAATAGTTGCTCTATAAATGGCTAGCAACT
+
+
+
+Number of matches for keyword number 305 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TTTTTCCTGCTATATGTGTTATACATAATTTCCATTGTATTATTTGTCTT
+
+
+
+Number of matches for keyword number 306 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TGTTTCACTACAGCCTCAACCTCTTGGGTTCAAGCAAGCCTTCCACCTCA
+
+
+
+Number of matches for keyword number 307 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GTATGTGTTTTATAGAGTAATAAAATGCTTTACTTAAAATGAGGTAAGTA
+
+
+
+Number of matches for keyword number 308 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AAAGCCCAAAATGACACCAGGGCCTGCACCAAATAAAACAACAATTCACA
+
+
+
+Number of matches for keyword number 309 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GCAGAAGCAGTAGAAGCAGCAGCAGCAGAAGCAGCAGAATCAATAGAAGA
+
+
+
+Number of matches for keyword number 310 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TTGCTGAGGGTTTTTAATCAGTTATGGATACTGAATTGTGTCAAATACTT
+
+
+
+Number of matches for keyword number 311 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TCATAAAACAAACAATTCAAATAGAAATGGAGCAAAATACATCAAGACAC
+
+
+
+Number of matches for keyword number 312 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CGGATAAATAAAAGGTGGTACATCCATACTAATACATGCTACAACACGGA
+
+
+
+Number of matches for keyword number 313 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GTGAGACTCCATCTCAAAAAAGAACAAAAAACAAAAAACAAAAACAAAAA
+
+
+
+Number of matches for keyword number 314 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CCAGAAATTCAGGAATTCAGATTTCTTTCTAACTAGGCCAGGGCTCTTTA
+
+
+
+Number of matches for keyword number 315 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TCTCTGGCTGCCCTTAACATTTTTTCTTTCATTTTCGCTTTGGTGAATCT
+
+
+
+Number of matches for keyword number 316 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CCGAGTTGTCGTAGCTTTGCACCCTTATGTGAAGCAGCTGGGTTAGAGCT
+
+
+
+Number of matches for keyword number 317 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ATTAATTATATTCACTTTTTCAAACTAGAGCATTTATTTTAATCAAAGAA
+
+
+
+Number of matches for keyword number 318 is: 16
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AAGAGAGTGGGGGCCAATATTCAACATTCTTAAAGAAAAGAATTTTCAAC
+
+
+
+Number of matches for keyword number 319 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TTCTATTTTTAATTTTTTGAAGAATCTCCATACTATTTTCCATAGTGGCT
+
+
+
+Number of matches for keyword number 320 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CTTTTTCACTTAAATAGTGAGTATGATACTGTATTGGGGGAATAAAGTTA
+
+
+
+Number of matches for keyword number 321 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AGCTCTGGGGCTCTGTTGTCTGTAGCTGGGATGCAGTCCTTTGAGACTCT
+
+
+
+Number of matches for keyword number 322 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AGAATGATATTTTTAACTGCCCTCTTTCTAGAATATACTATTTGTACTGG
+
+
+
+Number of matches for keyword number 323 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CTGGCTACATTCATTTAACACTTTCGATTTTCCTTGAGGCAGTAAATTAT
+
+
+
+Number of matches for keyword number 324 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GTGTACTTTTTAACTCTTCCTGAAACTTGGCTATATGTTGAAGACACTTT
+
+
+
+Number of matches for keyword number 325 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ACTTCTGAGGAATAGAGATGGGTCAGAGAGCTACCTTCATGACTGAGCAC
+
+
+
+Number of matches for keyword number 326 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AGAATACAATTGGGAACAAAAGGCTTAAAAAAAAGGCAAGCAGAGATAAA
+
+
+
+Number of matches for keyword number 327 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CACAGAGAGTAGGCTGATGGCACAATGTTAGGAGTCTACTCCTCAGATAG
+
+
+
+Number of matches for keyword number 328 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CAAAAGAGGAAATAGGTGAGATGCTAATACCATGTTACAGGTCAGAATGG
+
+
+
+Number of matches for keyword number 329 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CTATGAATAATAGAAATGGAAAGGAGGTCTATTATGTGCACTTAGAGGGT
+
+
+
+Number of matches for keyword number 330 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GCCCTCTGAAGGCAAAAGAGTAGTAATAATAATAACACACCAAGGCAAAG
+
+
+
+Number of matches for keyword number 331 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TTTGAAGAAAAAAAAATTTGTGTATAAGTAAACATCTGAAAATACTTTTT
+
+
+
+Number of matches for keyword number 332 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ATACCTATAGAATGCAATGCTTTACTGACTTTCTTTTCAATTAATCTTGG
+
+
+
+Number of matches for keyword number 333 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ATGTAGTTGGAATTATTAGTAAGAAGCTCTTTCTCACTTTCTAATACCCC
+
+
+
+Number of matches for keyword number 334 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GACCATTGCTGTGAAGATCTTAGAGCAAGAGAGGACTGAAGAAGTTAAAT
+
+
+
+Number of matches for keyword number 335 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TTACACACTAGGCAACTCGCTTGCCTTACCCTAGTGCTTTCACTGGCAAA
+
+
+
+Number of matches for keyword number 336 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GCAGTTCTATTTTTAATTTTTTGAAGAATCTCCATACTATTTTCCATAGT
+
+
+
+Number of matches for keyword number 337 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ACTATCTTAAGGATGCAAAGTAAACAACTGTCAATTTTTAATTCTATAAC
+
+
+
+Number of matches for keyword number 338 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AAGCCAAGGCAAATATGTGAGAAACAGTAATTATGAGTATCAGAAAACAG
+
+
+
+Number of matches for keyword number 339 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AAGAGGACCAAAGACTGAGAGACCTGGGCACTCCAAAATTTAAAGATTGA
+
+
+
+Number of matches for keyword number 340 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GCCTGAGCAACAAGAGCAAAACTCCGTCTCAAAAAAAAAAAAAAAAAGAA
+
+
+
+Number of matches for keyword number 341 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TGACTAATAATCTTTTCCCAATAGTGTTTTGTATATTTTCTAAGAATAAT
+
+
+
+Number of matches for keyword number 342 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CTTGAGAACTGAGAGAGCCAATGATGTAGTTCTCCAAAGACCTGCAGATT
+
+
+
+Number of matches for keyword number 343 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AGCAGCAGCAGAAGCAGCAGAATCAATAGAAGAATCAGAATCAGAAGAAA
+
+
+
+Number of matches for keyword number 344 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AATGTTTATTTTTCTTTGTTTTCACTGCTGTCATGAATGCTGACATAAGT
+
+
+
+Number of matches for keyword number 345 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ATTGTGTCTAAAAAGCAAGACTTATATCAAAACAGGATCCCTTGCCCCTT
+
+
+
+Number of matches for keyword number 346 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AAAGTTATAAAGTAAAAATTTACAGTAAGCTAACATTAATTTATTCGTCA
+
+
+
+Number of matches for keyword number 347 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TATTTTGTGTTTCATGTTTACTATTGTATCTCCCAAATCTAGCACAGTAC
+
+
+
+Number of matches for keyword number 348 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CTATATATTTAAATATCAGAGATATTGCTCTATAAGCTAAAGATCTGTAT
+
+
+
+Number of matches for keyword number 349 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CATCAAGCATCAATTAACTACCATTCAAAATGATTCAGCAATTAGCCCCT
+
+
+
+Number of matches for keyword number 350 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ATAAATGTTAAAGACCTGCATTAAGTTTCTAAAAAAAAATCAATTACATA
+
+
+
+Number of matches for keyword number 351 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AGGCAGGCAGATCACCTGAGGTTGGGAGTTCAAGACCAGTCTGACCAACA
+
+
+
+Number of matches for keyword number 352 is: 9
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AGGATGAGTTCATGTCCTTTGTAGGGACATGGATGAAGCTGGAAACCATC
+
+
+
+Number of matches for keyword number 353 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GGCGAAATATTTAAGTGATCTATCAAATAACCTGGCCAGGCATGGTGGCT
+
+
+
+Number of matches for keyword number 354 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TGTCTTCCTTGGCATCTAATGGGGACTTAATAGATGCCTATGTTTTTAAC
+
+
+
+Number of matches for keyword number 355 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ACTGAGTGTTTACTGTATAACTGGCTACATTCATTTAACACTTTCGATTT
+
+
+
+Number of matches for keyword number 356 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AGAGCTAGACTCTGTCTCAAAAAAAAAAAAAAAAAAAAAAAAAAGAAATA
+
+
+
+Number of matches for keyword number 357 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TCCCAATCAAGCTACTATTCTGTTCAAAATACTCTGAAAAAATCTCATTT
+
+
+
+Number of matches for keyword number 358 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GTAAAATATGGTATATGCATACAATTTTATTCAGCCTTTATTCAATAGGA
+
+
+
+Number of matches for keyword number 359 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AAAATTAGGAAATTATATATAACTGTCTGTAATATTATTTTCCTTAAGAT
+
+
+
+Number of matches for keyword number 360 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TTGAGATCCACTACTATACATCAAGCATCAATTAACTACCATTCAAAATG
+
+
+
+Number of matches for keyword number 361 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GGCTGGGGAGGACTCACAATCATGGAGGAAGGCAAGGAGGAGCAAGTCAC
+
+
+
+Number of matches for keyword number 362 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TTTCTTACTGGAGGGTCTTTGGGGAGAATCCATTCCAGGCTGATTCAGGA
+
+
+
+Number of matches for keyword number 363 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ATTGGGGAACAGAAATTAACATGTAAATAGTTTTGTTTTTTTTTTAATTT
+
+
+
+Number of matches for keyword number 364 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ATATATGACCACTTAACTTTCAGAGATATTACTATGACTACCTACAGATA
+
+
+
+Number of matches for keyword number 365 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AAGGAGGCAGAGACAGAATATGAGTGGGCACTAATGGCTGTGACACGGCA
+
+
+
+Number of matches for keyword number 366 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TGAGAAATTAGAGAACCCAAAATGATTTTTTAAACTAGAGACTAATGTGT
+
+
+
+Number of matches for keyword number 367 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GACTAGGAAAACTATATGAATAGCTGTGACATTAGACAAAATAAAGAAGA
+
+
+
+Number of matches for keyword number 368 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CTCCCTCTCTTGGTTTCTAAAATTGTTTTCAGTATCAGGTGTTTTCTTTT
+
+
+
+Number of matches for keyword number 369 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AACCTGTTATCTGCTATGAAACATTACTGAATCAATTTCTGGATAATGTG
+
+
+
+Number of matches for keyword number 370 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TTCTTTTGGGACTCCCATAACAAACGTTGGTTCACTTGATGGTGTTCCAT
+
+
+
+Number of matches for keyword number 371 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GCCAAGTGTATTCACTGCAACATTATCAGCTTCCCAAACAGACGAGGGAG
+
+
+
+Number of matches for keyword number 372 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TGTTATTTTTAATTTTTGTGGGTACATAGTAGGTGTGTATATTTACAGAG
+
+
+
+Number of matches for keyword number 373 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CCTTCAACTAAGTATTTTAAGGAGCACAATATTAACACTCCCCAAAAATT
+
+
+
+Number of matches for keyword number 374 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GAAATCTTAGGAAGATCCCTTACCCTAAGTTTCAATTCCTCATCTATAAA
+
+
+
+Number of matches for keyword number 375 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TGTGTGTGTGTGTGAGAGAGAGAGAGAGAGAGAATCTTCAGCTATCCTAA
+
+
+
+Number of matches for keyword number 376 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AGTGCAACCATATCCAAAATACTTTCTGATCTGTGATCTCATCAGCAACC
+
+
+
+Number of matches for keyword number 377 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CTTTACCCACTCAAACATCGTAAGTACATTAACACAGTATTTTCTTCTAA
+
+
+
+Number of matches for keyword number 378 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CTTTATTTAGGCTTTTGCAATAGGAGAGAATGAACTTAACTCTGATGAAA
+
+
+
+Number of matches for keyword number 379 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AATGGCCAACGCAACCGGTGGAATGTGGACCACAGGCTCCTAACATGAGC
+
+
+
+Number of matches for keyword number 380 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TTAGAGAACCCAAAATGATTTTTTAAACTAGAGACTAATGTGTTCTTAAT
+
+
+
+Number of matches for keyword number 381 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CCAACACTTTAGGAGGCTGAGGCAAGAAGATAGCTTGATGTTAGGAGTTT
+
+
+
+Number of matches for keyword number 382 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CAACAAGAAAAGAAAATTTCAGGCCAATATCCTTGATGAACATCAATGCA
+
+
+
+Number of matches for keyword number 383 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TACTAGCTCCAGAAGAAAATCTAAAATCCTTGCCTCATCCTCAAGGCTCT
+
+
+
+Number of matches for keyword number 384 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AAAGTCACATGCACACATATGTTTATTGCGGCACTATTCCCAGTAGCAAA
+
+
+
+Number of matches for keyword number 385 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AGTATAGAAAGACTAAACTGCTCTAAAAGTAGTCATTTTAGTTGCCCCAC
+
+
+
+Number of matches for keyword number 386 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CTTTACTGACTTTCTTTTCAATTAATCTTGGTTGTGCTGGCCTAGTGGGG
+
+
+
+Number of matches for keyword number 387 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TAGAATGGTGATTAGAAATGGAGAGTGTAATGTTGGTCTTGTTTTAGTTA
+
+
+
+Number of matches for keyword number 388 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AGTAATGCATAACAGTACACGAGTATAAAACATGGTCATGTTTCTTTACC
+
+
+
+Number of matches for keyword number 389 is: 2
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TCCCAATAGTGTTTTGTATATTTTCTAAGAATAATTATTCTAATGTCAAA
+
+
+
+Number of matches for keyword number 390 is: 13
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TGCAGCCATAAAAAAGGATGAGTTCATGTCCTTTGTAGGGACATGGATGA
+
+
+
+Number of matches for keyword number 391 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CTTCAGAACTTCTTTAAATATCCATATATTTCATTTTTAAAATTAAATAA
+
+
+
+Number of matches for keyword number 392 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CATGGTGTGTGTGTGTGTATCCATATATGCTACATTGCCTTTATCCAATC
+
+
+
+Number of matches for keyword number 393 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GCCATTGCAGAAAGATAACTAATGGCTTATATACAAGAGATCGCAGTTAA
+
+
+
+Number of matches for keyword number 394 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CAAGGGCCAGGCTGGTCTCTTCAGCCCCATCTTCCAGATCATTCTCTGTG
+
+
+
+Number of matches for keyword number 395 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GAAGGTACCATCTGAGCGAGTCAATTTCCCATGGGTCCCTTCTTGCACCT
+
+
+
+Number of matches for keyword number 396 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ACCTGGCCTTTTTCTCTGGCTGCCCTTAACATTTTTTCTTTCATTTTCGC
+
+
+
+Number of matches for keyword number 397 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AAATGGAAAGTTAGGGTTTAAAAGGAATGATAATGTGGAAGAACTGTAGA
+
+
+
+Number of matches for keyword number 398 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AAGGCCTAGGATGGGTAAGAATAAAATTCCTAAAATATTTTAGATTCCTT
+
+
+
+Number of matches for keyword number 399 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TGCTGCTTCACCTTGCATTTTTATGTTATGGAGATGGCTTCTTTCCTTAC
+
+
+
+Number of matches for keyword number 400 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TTCATATTGCCTGTAAGAATTGGGACTTGGATAACCGGAGTAAAAAAAAT
+
+
+
+Number of matches for keyword number 401 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CCATAGAAAACCACACATGACTCCTGCCAACCCGATACCAGTTGGGGTGG
+
+
+
+Number of matches for keyword number 402 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ACATTTGTGTAGCTGTCCAGAAAACCTATCAGTTGTTGGCTGTAGTTCCT
+
+
+
+Number of matches for keyword number 403 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GCTGATGGAGAACTACACACAAAATTACAGAACACGTCATTGCACATGGT
+
+
+
+Number of matches for keyword number 404 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TTGAATCTCTGATGATCTCCCCACATTCTAGCCCTTTCTCAAATCCCACC
+
+
+
+Number of matches for keyword number 405 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GGGTCACTCAGCATTTTCCTAATTTGGAACCCCTGGAGGCTACTCTGACT
+
+
+
+Number of matches for keyword number 406 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TGCAAGGATCTTGTACTCTAAACCTATGAATATAGTCCACAGAGACTGTG
+
+
+
+Number of matches for keyword number 407 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TTACTTATTAATAGCTGTTCGGCATATATGGTATGGAAATGGTAAACAAT
+
+
+
+Number of matches for keyword number 408 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GGCGCCTGTAGTCCCAGCTACCCTGGAGGCTGAGGCAGGAGAATGGCGTG
+
+
+
+Number of matches for keyword number 409 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ACCTCGTGATTCGCCCGCCTCGGCCTCCCAAAGTGCTAGGATTACAGGCG
+
+
+
+Number of matches for keyword number 410 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TTGGTCTTTAAAGATAATGAGAACTGTCAAAAGAGGAAATAGGTGAGATG
+
+
+
+Number of matches for keyword number 411 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AACCATTTATACTTATATTGGAATTTTAGATGTGACAAGAATGTGAAAGG
+
+
+
+Number of matches for keyword number 412 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CCACCTCTACGTGCCTACACATCACTCCTTTTCTCGCTTCAGCTTCCTTA
+
+
+
+Number of matches for keyword number 413 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CTTTCTTTTCAATTAATCTTGGTTGTGCTGGCCTAGTGGGGCTGTGTTCT
+
+
+
+Number of matches for keyword number 414 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TATTGTACACACACACACCCATACATCACAGTTTATTCATTTGTCCCTCA
+
+
+
+Number of matches for keyword number 415 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GTTAGAGTCCTGGTATTATGAAATTGTTTATATAGTACTAGATTTTTTTA
+
+
+
+Number of matches for keyword number 416 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CTCCAGTGACTTTTACTAGCTCCAGAAGAAAATCTAAAATCCTTGCCTCA
+
+
+
+Number of matches for keyword number 417 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AATATTGCAGAGGGGAAATTTACTGCATTAATTTCAATCACTAGACATTT
+
+
+
+Number of matches for keyword number 418 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AGGGTATCAGTGATGGACGATCAAATGAATGAAATGGAGCGAGAGGAGAA
+
+
+
+Number of matches for keyword number 419 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CACGAGTATAAAACATGGTCATGTTTCTTTACCAGTGTACTAGGTGAGTG
+
+
+
+Number of matches for keyword number 420 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CAGTATAGTTGAATGCTTACAAGAGGAGAAGCTTTTAGCAACTCCTTTGT
+
+
+
+Number of matches for keyword number 421 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TATATATTGCAGCTAAGTTTTTGTTTACTATTGAAATTAAGTTTGTATTA
+
+
+
+Number of matches for keyword number 422 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TTAGAGCAATTAATGGGACTTCTCAGCCACCATAATCATATGAGCTAATT
+
+
+
+Number of matches for keyword number 423 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TCTTGCAATTTATGTATCCTTACGACCCACCTTGAGGTCTTTTGGAAACA
+
+
+
+Number of matches for keyword number 424 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TCTGTTAGAATTGATCAATTCTAGGGCAACTACACAATTAATTACCTTGC
+
+
+
+Number of matches for keyword number 425 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GGTCATGCCATGCCATGGGGCCTGAGGCAGTCTTAGGACACGGGGCGTCT
+
+
+
+Number of matches for keyword number 426 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CTTCCCTATGTAGGTGACCTGGCCTTTTTCTCTGGCTGCCCTTAACATTT
+
+
+
+Number of matches for keyword number 427 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GCAAACTTTATGTGAAAGAGACTGAGGAAAGTTTAAAACTCCTAAGAAAA
+
+
+
+Number of matches for keyword number 428 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TTTTTAAAGAAACTGCCAAACTATTTGTCAAAGTAGTCATACAATTTAGC
+
+
+
+Number of matches for keyword number 429 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ACAGAAAATACAAATAAAATGAACTAGCAGAAAAGAAAGCCTTTGCAAGT
+
+
+
+Number of matches for keyword number 430 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ACACAGATTCTAAAAATTATAATTGCCTCTCTCACCAAGATGTCAAACAA
+
+
+
+Number of matches for keyword number 431 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AAACTTTTATTATTTTTCAAATAAATCAGTAAACAACATCATAAAAAGTC
+
+
+
+Number of matches for keyword number 432 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AATCAAGCTACTATTCTGTTCAAAATACTCTGAAAAAATCTCATTTTCTA
+
+
+
+Number of matches for keyword number 433 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TTGTGCAAGCAGGAATTACACAGAGAATGACAAAGAGATGTAACTCCAGG
+
+
+
+Number of matches for keyword number 434 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TTTATTCACAATTTAAAATCATAGCAGTTTAAAGCTGTAGGGGACCAGAA
+
+
+
+Number of matches for keyword number 435 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CTGAGTGATAGATTGTTTTTACCCCTGTCATCTTGTAGCATTGCTTTAAT
+
+
+
+Number of matches for keyword number 436 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GGCTGAACATCAAACAACTTAGTGAATAATGGAAGCTCCTGTAGGCTCCT
+
+
+
+Number of matches for keyword number 437 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AAGTAAACATCTGAAAATACTTTTTCCTTTATTCCACCCATAATAAATAT
+
+
+
+Number of matches for keyword number 438 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AAACTAATGTCATCTTGCTATTATAAAACGTGGTCATCACATTTATTTTG
+
+
+
+Number of matches for keyword number 439 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GCTCATAGAGATTCTGGGAAGACAAACATCTAGGTATGAACTACTGGAAA
+
+
+
+Number of matches for keyword number 440 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ACACATCAACGACCACCGTCAGAAATGGCAGATTTTCTTAGTGATGCTAT
+
+
+
+Number of matches for keyword number 441 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GTTTCAAAATCCATGCTATTACTCCAGAGAAAGTGAAAACTTGAGTTCAT
+
+
+
+Number of matches for keyword number 442 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ATTTTCTCATTCATTCATTCACTGTAACATCAGCTCCACAAAAGCAAAGA
+
+
+
+Number of matches for keyword number 443 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GACCTTCTCTAGATGTTCCATTATCCAGGAACCTCCATATGTTCAGCTAT
+
+
+
+Number of matches for keyword number 444 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TACGTATGTTGGACTATTTTATATAATCTACAAGATCCTTGAGGTTCTGT
+
+
+
+Number of matches for keyword number 445 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TAAGACTGTATGGTCCATTAGAGGTATGGATGCCTGGGTCTTGGCTAGAG
+
+
+
+Number of matches for keyword number 446 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TTAGAGAAGATGGGGCTATAGCCAAATGGATTGTGAAGTTCACTGGGTAG
+
+
+
+Number of matches for keyword number 447 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ACGAGTATAAAACATGGTCATGTTTCTTTACCAGTGTACTAGGTGAGTGA
+
+
+
+Number of matches for keyword number 448 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ACCTGAACCACAAAGCAATAAAAATGAGAAGTAAATAATATTTGATTTGT
+
+
+
+Number of matches for keyword number 449 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GTTATGGATACTGAATTGTGTCAAATACTTTTTCCTGAATGTACGAGACT
+
+
+
+Number of matches for keyword number 450 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AGGAAGACAGGCCTCCGAAGCGTCTCTCCTGGCTTAGAGGATAGTGGCTT
+
+
+
+Number of matches for keyword number 451 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AGCATAGTGTTATTATTTGCAGACTATAACATTAACATTTCTACATAACT
+
+
+
+Number of matches for keyword number 452 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AATGAAAAACCTTTTCTCAAAATGTAGAGTTCAACTAGGCATTAGTTTTC
+
+
+
+Number of matches for keyword number 453 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TAGTTTGCTGAGGGTTTTTAATCAGTTATGGATACTGAATTGTGTCAAAT
+
+
+
+Number of matches for keyword number 454 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CAAAAAAAGGCAGAGGTTGCAATCCTAGTCTCTGATAAAACAGACTTTAA
+
+
+
+Number of matches for keyword number 455 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ATCACCTCACACTCAGGATAGCTATTATCAAAAAAAACAAAACACAGCAA
+
+
+
+Number of matches for keyword number 456 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ACAAAGTTTTAGCCAGACTAACAAAGAAAAAAAATGGGAGAAGATTCAAT
+
+
+
+Number of matches for keyword number 457 is: 8
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TATACACCATGGAATACTATGCAGCCATAAAAAAGGATGAGTTCATGTCC
+
+
+
+Number of matches for keyword number 458 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GGCCTAGGATGGGTAAGAATAAAATTCCTAAAATATTTTAGATTCCTTAT
+
+
+
+Number of matches for keyword number 459 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AACATAGCTTCAATTGCTGTCTTCCCACCCCCATTTTTACAGTTTTGTTA
+
+
+
+Number of matches for keyword number 460 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AAGTAGGTAATCATGAAGTTAGATTAAAACAATTTGATAAAGGTTGCAAT
+
+
+
+Number of matches for keyword number 461 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TGCCAACTCCCAATCCCACCCTGAGACAGTCTGATTCAGTGGGAATTTGT
+
+
+
+Number of matches for keyword number 462 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TATTGCTTCACCAGAATTTGAGTTCTCACCACTAGCAAGCAAGATCTTAC
+
+
+
+Number of matches for keyword number 463 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GTGCTTTATTCCTTCATTTTCTCATTCATTCATTCACTGTAACATCAGCT
+
+
+
+Number of matches for keyword number 464 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GGTTCAAGCGATTCTCCTGCCTCAGCACCCCAGGTAGCTGGGATTATAGG
+
+
+
+Number of matches for keyword number 465 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CTTAGCACATCTTGGTGACTAAGGTGTAAGTGGCAGTTGGCCAGAACTTG
+
+
+
+Number of matches for keyword number 466 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AAAGATAATGAGAACTGTCAAAAGAGGAAATAGGTGAGATGCTAATACCA
+
+
+
+Number of matches for keyword number 467 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CCCTTTCATATTGCCTGTAAGAATTGGGACTTGGATAACCGGAGTAAAAA
+
+
+
+Number of matches for keyword number 468 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CCCACCCCAATCCCATACACCAGGCCCTAGCCATTCTTCTTTATGTGTAG
+
+
+
+Number of matches for keyword number 469 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CACCATGCTGGCCAGGCTGGTCTTGGACTCCTGACCTCAGGTGATCCTCC
+
+
+
+Number of matches for keyword number 470 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GATATGTCAACGGAGTATTGCTTCACCAGAATTTGAGTTCTCACCACTAG
+
+
+
+Number of matches for keyword number 471 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GAGAATAGCATGGAGGAAACTGCCCCCATGATTCAATTGCTTTTCACCAG
+
+
+
+Number of matches for keyword number 472 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CAAGATAGCGCCACTGCACTCCAGCCTGGGCGACAGACCGAGACTCCATC
+
+
+
+Number of matches for keyword number 473 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TAGAGTAATTCAGTCTCTTTTTCCACAGTAATTACTACTTGTTTTCTTCT
+
+
+
+Number of matches for keyword number 474 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TTTTCCAACTTTTTTTTTTCTTTTTTTTTCCGAGATGGAGTCTCGCTGTC
+
+
+
+Number of matches for keyword number 475 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TCCATGCTAAGGGCTTGTTAAATAAGCAACATGAAGAGCATCAATCAGGT
+
+
+
+Number of matches for keyword number 476 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GAATTTTAACGTTTCTTTTAAATTGCATAAAATTATTATACATATTTTTG
+
+
+
+Number of matches for keyword number 477 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AACTATTTGTCAAAGTAGTCATACAATTTAGCATTCCCACCATCAGTGTA
+
+
+
+Number of matches for keyword number 478 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TGCTGTGAGAAACAGAAAAAGTAGATCTAAGTAAGGGGAATTAGGCAGGT
+
+
+
+Number of matches for keyword number 479 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AGAAAAAAAAATTTGTGTATAAGTAAACATCTGAAAATACTTTTTCCTTT
+
+
+
+Number of matches for keyword number 480 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TGTGACGGGATCTGCCGTCAGCACAACCTCTGTGGTTTCTGTGTGAACAA
+
+
+
+Number of matches for keyword number 481 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AAAGGCTAAAGTAACTTTTATATATATTTTTAATTAGGTACGATTATATG
+
+
+
+Number of matches for keyword number 482 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ACACACACACACACACAATTATTTGGAGGGTGCTGAAACATCTTATTACC
+
+
+
+Number of matches for keyword number 483 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TCTCATGCTTTAAACTTTTATTATTTTTCAAATAAATCAGTAAACAACAT
+
+
+
+Number of matches for keyword number 484 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CATCATAAATCCACAGAGACAGGGATGCTGAAAGTGGCAGAATTAAGGAC
+
+
+
+Number of matches for keyword number 485 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TCGGCAAGCACCTCAGCAGGTCGTGGTTGTTGTTGTTGTTGTTGTTGTTG
+
+
+
+Number of matches for keyword number 486 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TACTAATACATGCTACAACACGGATGAACTTTGGAAAATTATTCTAAATG
+
+
+
+Number of matches for keyword number 487 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TCCTGCCTCAGCCTCCTAAGTAGCTGGGATTATAGGCATGTGCCACCATG
+
+
+
+Number of matches for keyword number 488 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GGGGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGTCCAGGCAGAGGCA
+
+
+
+Number of matches for keyword number 489 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ATGTCTAGGTTTCCCTCCAGTGTTTTAATTTTATAATTTGAATTATAAAC
+
+
+
+Number of matches for keyword number 490 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CCACCCTGAGACAGTCTGATTCAGTGGGAATTTGTATTTTAACAAGCATG
+
+
+
+Number of matches for keyword number 491 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GAATTTGTTCATTTTTTCGAGATTTTCCAATTTATTGCCATATAATTGCT
+
+
+
+Number of matches for keyword number 492 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AGCTACTATTCTGTTCAAAATACTCTGAAAAAATCTCATTTTCTAATGAA
+
+
+
+Number of matches for keyword number 493 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AAACACTATTAATTGTTTTATTACCAATGTTAAGTTAAATTCTTCTTGTA
+
+
+
+Number of matches for keyword number 494 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TTGAATGCTTACAAGAGGAGAAGCTTTTAGCAACTCCTTTGTTTCTTAAT
+
+
+
+Number of matches for keyword number 495 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TAAAAATATTAAGTTTTTTTCCAGAAACTAGACAAATTGACTAAAGTATA
+
+
+
+Number of matches for keyword number 496 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CTTTGGGAGGCCGAGGCAGGCGGATCATGAGGTCAGGAGATCGAGACCAT
+
+
+
+Number of matches for keyword number 497 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ACTTTGAAAATATATTTTTGCAAATTTGAATTTTATTAATGTTGCTTCTG
+
+
+
+Number of matches for keyword number 498 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AGAAGAGCATATAAAACCAGTAAACTGAGTACTAAATAATCACCATAATT
+
+
+
+Number of matches for keyword number 499 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TGGCAAATCGGGTCACTCCCACCCTAATACTGAGCTTTTCCAACGGGCTT
+
+
+
+Number of matches for keyword number 500 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TCTAGGTTTCCTCATTACAAGTTCTAGGACCCTTGATATGAGCCATTCCT
+
+
+
+Number of matches for keyword number 501 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GTAGCACTGTTCACAACAGCAAAGACTTGGAACCAACCAAAATGCCAATC
+
+
+
+Number of matches for keyword number 502 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CTTTCATCCTTAATGTCTTCCTTGGCATCTAATGGGGACTTAATAGATGC
+
+
+
+Number of matches for keyword number 503 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GTAACTTTTATATATATTTTTAATTAGGTACGATTATATGCAAGACCTGA
+
+
+
+Number of matches for keyword number 504 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CAGCCTCAACCTCCTGGGCTCATGCAATCCTCTCACATCAGCCTCCAGGG
+
+
+
+Number of matches for keyword number 505 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AACATTATCAGCTTCCCAAACAGACGAGGGAGAGAGAGAGAGAGAACAGT
+
+
+
+Number of matches for keyword number 506 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CAATGAGACAGACCTGCCACTAGCCCAGCAAACAGCCAATAGCAGATCAT
+
+
+
+Number of matches for keyword number 507 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AAATGATGAATGTTTCTTTTCAGACTTTTAAAGGTGTAAGTCTCTCAGCT
+
+
+
+Number of matches for keyword number 508 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ACTTGTCTCCTTGTAGAGAACATTACTGCAAAGCAATGCTCATAGAAATT
+
+
+
+Number of matches for keyword number 509 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TGCAAATTGAGACAGCTGTATGTCTTTCTTTTCAAACTGTATATCTTTTG
+
+
+
+Number of matches for keyword number 510 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CAGCTGATCAGCCCCTTCTTCCTGGCTCTGGAGGTTTTTAAAACAATGAC
+
+
+
+Number of matches for keyword number 511 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AGAATGGCATTGGCCAGGATAATTTCTTTACCAGAAAGAATAAATATAAG
+
+
+
+Number of matches for keyword number 512 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AGTATTTAATTAAGAGCTTTCTTTTTCTTTTAATTTAGATATTCATCACT
+
+
+
+Number of matches for keyword number 513 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GCAGCAGGTGGGGGAACCAGAAGGGAGTTGGTTATCCCACTCAGTGGCCC
+
+
+
+Number of matches for keyword number 514 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TCTTTGTTTTCACTGCTGTCATGAATGCTGACATAAGTGGGAATGCTATG
+
+
+
+Number of matches for keyword number 515 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TTTTGGCAACTACACATTTTCTAGAAAATGATAAATTGTGAGCAGAAGGA
+
+
+
+Number of matches for keyword number 516 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ACATATATCTATCATTATAGTATCATGCAGAGTAGTTTCACTGCTTTAAA
+
+
+
+Number of matches for keyword number 517 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ATACACACTGCACACTCATGTCCTCTCTTCAACCTTTGCATCACTCACTT
+
+
+
+Number of matches for keyword number 518 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ACTGGATGAGACATATTGAAAGGGCCTGGCACTAGAAGATACGTCCCATA
+
+
+
+Number of matches for keyword number 519 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ACTAAGAAATTATTGATATTCAAAAATTCGCAAATAAGATAGATCACTGA
+
+
+
+Number of matches for keyword number 520 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CTACTTAGGACAACCTTATGGAGCTTTGCAGGTGAGGAAGATGAGGATTA
+
+
+
+Number of matches for keyword number 521 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CTAGACTCTGTCTCAAAAAAAAAAAAAAAAAAAAAAAAAAGAAATAAACA
+
+
+
+Number of matches for keyword number 522 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AAGTTTACTTGCATGTTGTTTAATGTTTTCATTAGAAAACAGTGTCTTAA
+
+
+
+Number of matches for keyword number 523 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CTGGTAGAAGGCTGGAGGATGAGGAGGAGGGGCACGGGTGTCAGGTGGGA
+
+
+
+Number of matches for keyword number 524 is: 2
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ATTAATCTGGAGATATTCCATGCTAAGGGCTTGTTAAATAAGCAACATGA
+
+
+
+Number of matches for keyword number 525 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ATGTTCACTTGACTAATAATCTTTTCCCAATAGTGTTTTGTATATTTTCT
+
+
+
+Number of matches for keyword number 526 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TGATCCGCCCGCCTCAGCCACCCAAAGTGCTGGGATTGTACAGACGTGAG
+
+
+
+Number of matches for keyword number 527 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TAGGTCACCCGAGTTGTCGTAGCTTTGCACCCTTATGTGAAGCAGCTGGG
+
+
+
+Number of matches for keyword number 528 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ATCCGATGTGACAACTGAAAATGTCTCTAGACATTGCCAAATATGCTCTG
+
+
+
+Number of matches for keyword number 529 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GCAGCTAAGTTTTTGTTTACTATTGAAATTAAGTTTGTATTAATCCAAAC
+
+
+
+Number of matches for keyword number 530 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TGCATCCCACAATTTTTTGTGTTTGTTTTTGTTTTATTTTGCTTTTAATG
+
+
+
+Number of matches for keyword number 531 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CTCTCCATTTTTGTCTCCCTCTCTTGGTTTCTAAAATTGTTTTCAGTATC
+
+
+
+Number of matches for keyword number 532 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TCCTTCAACTAAGTATTTTAAGGAGCACAATATTAACACTCCCCAAAAAT
+
+
+
+Number of matches for keyword number 533 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TTGCCACTCATATATCCTCTTGGTGAAATGTTTGTGAGCATCTTTCTGTG
+
+
+
+Number of matches for keyword number 534 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TCTTTTCACGTGTTTATTTGCCACTCATATATCCTCTTGGTGAAATGTTT
+
+
+
+Number of matches for keyword number 535 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TATCTCTACTAAAAATACAAAAAGTAGCTGGACATGGTGGTGGGCACCTG
+
+
+
+Number of matches for keyword number 536 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TAAATTCACTCCTTTTTTTCTTAGTATTTAAAATTATATAACTTTATAGA
+
+
+
+Number of matches for keyword number 537 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GTTCCTTGCCCTCATTCCAGTAAACCCACAACCTTCAGCGTGGGCATCAT
+
+
+
+Number of matches for keyword number 538 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CTTTTTTTTTCTTTTTAGCCAATTCCAACGCAGGCTTTGGCCTCTATTCA
+
+
+
+Number of matches for keyword number 539 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CGAGTCAATTTCCCATGGGTCCCTTCTTGCACCTCCCCAACCTTCTTTTG
+
+
+
+Number of matches for keyword number 540 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CACACACACACACACACACACACACACACAATTATTTGGAGGGTGCTGAA
+
+
+
+Number of matches for keyword number 541 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GTGGCGGGCGCCTGTAGTCCCAGCTACCCTGGAGGCTGAGGCAGGAGAAT
+
+
+
+Number of matches for keyword number 542 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AGAAGCTTTTAGCAACTCCTTTGTTTCTTAATGTATATATTATATCTGAA
+
+
+
+Number of matches for keyword number 543 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GTAATACAATCTGCTACACCCAAGTTTAAAAAATATTTAGCATGTGATAA
+
+
+
+Number of matches for keyword number 544 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CTCTTGTGCATTGTTGTTGGGAATGTAAATTAGTAGAGGAGTTGGAAAAC
+
+
+
+Number of matches for keyword number 545 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CTTGGACATTATAATAACTTAATGATCCTTATTTTGAATGAATTAACAAT
+
+
+
+Number of matches for keyword number 546 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AAAAAGGTAGGGCATTTAAATAATATGCAATAAGTTAAAAGATAACTGCT
+
+
+
+Number of matches for keyword number 547 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TTGTCTGCTTCCTTTAGGCATATGAGCTTGCTACTTCTCTTCTATCTGGA
+
+
+
+Number of matches for keyword number 548 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GCCAATTGAATTACAGCACAAATTTTGCTCTAGTTATTTGGCAGAGTGTT
+
+
+
+Number of matches for keyword number 549 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TACATAAGAAATCATAAGAATGCCTGAGATGAATTACAAAATAGAAGGTC
+
+
+
+Number of matches for keyword number 550 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TGGCTGGGCACGGTGACTTGTGCCTGTAATCCTAGCACTTTGTGAGGCCG
+
+
+
+Number of matches for keyword number 551 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GAAAAATCAAGAACTCAAGAAAGAAAAAAGAGAAAAAATTCAATCAAATA
+
+
+
+Number of matches for keyword number 552 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CATAACACAGGTGATGTCTTAATTCTACTTTCTAAATTTTGATATTTCCA
+
+
+
+Number of matches for keyword number 553 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TTGTGACAACCAAAAATGCCTCCAAAGATTGCCCACAAAGCAGAATCACC
+
+
+
+Number of matches for keyword number 554 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GAAACTAAATTATGGCTTTTATTTCATTATCTACAAAGCAGCTAACATCA
+
+
+
+Number of matches for keyword number 555 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AAAGAAGTTTACTCAAAGAAGTTATCTCACTCCAGGTTGATAAGACAGGC
+
+
+
+Number of matches for keyword number 556 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GTGTTTTAATTTTATAATTTGAATTATAAACTGGCAACATGAATTAAAAA
+
+
+
+Number of matches for keyword number 557 is: 2
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ACAAAAATCAGCCAGGTGGGGTGGCAGGCGCCTGTAATCTCAGCTACTTG
+
+
+
+Number of matches for keyword number 558 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CTTAAAAATATAACAAATGAAAAACCTTTTCTCAAAATGTAGAGTTCAAC
+
+
+
+Number of matches for keyword number 559 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GACTTATGGCCCCTAACCCCAATATGGTTTGGCTGTATGCCCAGCCAAAT
+
+
+
+Number of matches for keyword number 560 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AACAGAGTGAGACTCCATCTCAAAAAAGAACAAAAAACAAAAAACAAAAA
+
+
+
+Number of matches for keyword number 561 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TTTAATTTTTTTATCGTTGCGCAAGTAGTAAACTTAGCACCTGATAGGTA
+
+
+
+Number of matches for keyword number 562 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AAAATACAAAAATTAGGTGAGCATGGTGGCAGGCGCCTGTAATCCCAGCT
+
+
+
+Number of matches for keyword number 563 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TTTCAAGTAATTGCAAGATTTGTTTGTTTTTGGTGGGTTGAGATCAAGAA
+
+
+
+Number of matches for keyword number 564 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CCTTACCAAAAGGCTGTGTCCCACACTTGCTACTAATTACAAAATTGTCT
+
+
+
+Number of matches for keyword number 565 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ATATTTTTGGCCTTTTGAGAGGCCCCCAGCTCTAAAATATTAACACTTAC
+
+
+
+Number of matches for keyword number 566 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AATTCTGTAGTTTCTGTAGAGCTAGGAATGACAATTAATATGCTGGAGAT
+
+
+
+Number of matches for keyword number 567 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ATACTACTCCCCACTGAAAGAAACCAGCGTTTCTTGGCAAAATGGTGATT
+
+
+
+Number of matches for keyword number 568 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GGCATCTAATGGGGACTTAATAGATGCCTATGTTTTTAACCATTGTAATT
+
+
+
+Number of matches for keyword number 569 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AAAACACTGCTAGATTCAATTTGTTAATATTTTATTTAAGATTTTCCACA
+
+
+
+Number of matches for keyword number 570 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GAAATATCAGGTTGTCTGTGAAGATTTTGATAAGCATATTGTAAACTATA
+
+
+
+Number of matches for keyword number 571 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GCAACTCGCTTGCCTTACCCTAGTGCTTTCACTGGCAAACTAAAGGCATT
+
+
+
+Number of matches for keyword number 572 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GAGTCTCCCTCTGTTGCCCGGCCTGCAGTGCAGTGGTGCAATCTCGGCTC
+
+
+
+Number of matches for keyword number 573 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ATCTTGATAACACTGTAGATTCTGTTTCAGCGGGTCTGGGGGGGAGCCTG
+
+
+
+Number of matches for keyword number 574 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TATTTATAAGCTTTCTTCTTCTGTTCCATCTACTCTTTCTATTCCTTAAA
+
+
+
+Number of matches for keyword number 575 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CTCATGCAATCCTCTCACATCAGCCTCCAGGGTAGCTGGACTACAGGCAC
+
+
+
+Number of matches for keyword number 576 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GCTGAATGAGGAAGACAGAGCCAGGAGATTAGGCAAGAAATATGCTTACA
+
+
+
+Number of matches for keyword number 577 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AGATATAGGCAGTGACACAAAGAATGTGGGCAGAAGTGAGTTATGCTTTT
+
+
+
+Number of matches for keyword number 578 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GTGGATATGGTGGCAGTGAGGATGACTATAATGGATTTGGTAATGACACT
+
+
+
+Number of matches for keyword number 579 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AACAATTAGATATGTGAAGATAACAACGCTCACCTATGTTTTTTCAGTTT
+
+
+
+Number of matches for keyword number 580 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TATATATATACATATATATGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTG
+
+
+
+Number of matches for keyword number 581 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TTAAGGAGCACAATATTAACACTCCCCAAAAATTTGAGCTTGGCAGTTAT
+
+
+
+Number of matches for keyword number 582 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TCTTTTTCTTATCTGATTGCACTGGCTAGGACTATGTTGAATAAAAGTGG
+
+
+
+Number of matches for keyword number 583 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GACCCTCCTTACCAAAAGGCTGTGTCCCACACTTGCTACTAATTACAAAA
+
+
+
+Number of matches for keyword number 584 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GCTTTTTCAGGTGCTCTTTCTTTTCTTTGTCTCTTGAAGCCCAACAGAGC
+
+
+
+Number of matches for keyword number 585 is: 2
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       AACGTCCAGACCTTCTCTAGATGTTCCATTATCCAGGAACCTCCATATGT
+
+
+
+Number of matches for keyword number 586 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GGCATAATAATTCCTTGAGTAGACTAACTGTGGGAGGTATGTCAAGAGAA
+
+
+
+Number of matches for keyword number 587 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TCAACACTGGTGTCTTTCATAATAACAGAATGAACATTGGAAATTACTTT
+
+
+
+Number of matches for keyword number 588 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CATAGCTTCAATTGCTGTCTTCCCACCCCCATTTTTACAGTTTTGTTAAA
+
+
+
+Number of matches for keyword number 589 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CGGATCATGAGGTCAGGAGATCGAGACCATCCTGGCTAACATGATGAAAC
+
+
+
+Number of matches for keyword number 590 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TAAAATATTCATGTGTCAGGCTCTGGGCTATCTTCTAAAGCTTCTTGAAA
+
+
+
+Number of matches for keyword number 591 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GTCTTTTTAATTCTTCTCTCTTTTCTTCTTTATTAGTCTGGCTAGCAGTC
+
+
+
+Number of matches for keyword number 592 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TCTTTATAGCAATGCGAGAATAGACTAATATACCACCACAGTCTGAATCA
+
+
+
+Number of matches for keyword number 593 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GCATAGAGTATACAGTATTAATATCTTTGTGTGTTAATAGCTCAATACAG
+
+
+
+Number of matches for keyword number 594 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GATTTTTTATATTCCCAACATTTTATTATTTATTTTTGCTAGTATATTTA
+
+
+
+Number of matches for keyword number 595 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TAGTATCATGCAGAGTAGTTTCACTGCTTTAAAAATCCTCTGTGTTTTGC
+
+
+
+Number of matches for keyword number 596 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TTCTTCCTGCCTTGGGTTTCCCACCCCAATCCCATACACCAGGCCCTAGC
+
+
+
+Number of matches for keyword number 597 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CTGAGGCAGAAGTATCACTTGAACCTGAGAGGCAGAGGTTGCAGTGAGCC
+
+
+
+Number of matches for keyword number 598 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CAGAGATATTGCTCTATAAGCTAAAGATCTGTATCATCACATAGAATGTG
+
+
+
+Number of matches for keyword number 599 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       TAGTCATACAATTTAGCATTCCCACCATCAGTGTATGAGAATTCCAGGTC
+
+
+
+Number of matches for keyword number 600 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CATGCACACGTATGTTTGTTGTAGCACTGTTCACAACAGCAAAGACTTGG
+
+
+
+Number of matches for keyword number 601 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CTCAGCACTTTAGGAGGCTGAGGCAGATGGACTGCTTGAGCTTAGGAGTT
+
+
+
+Number of matches for keyword number 602 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       ATGAAGGACAAACAAAACACCACATTTCATATTGAGGGAATAAGCAAAGC
+
+
+
+Number of matches for keyword number 603 is: 1
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       GCGCCACTGCACTCCAGCCTGAGCAACAAGAGCAAAACTCCGTCTCAAAA
+
+
+
+Number of matches for keyword number 604 is: 0
+Number of expected matches for that keyword is: 
+2.69257534323e-24
+that keyword is: 
+       CTGTTCCTGTGTTAGTTTGCTGAGAATGATGGTTTTCAGCTTCATCCATG
+
+
+

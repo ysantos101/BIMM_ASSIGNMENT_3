@@ -1,0 +1,62 @@
+Number of keywords is: 
+4
+Trie successfully built
+Percentage complete is: 
+7.0
+Percentage complete is: 
+14.0
+Percentage complete is: 
+21.0
+Percentage complete is: 
+29.0
+Percentage complete is: 
+36.0
+Percentage complete is: 
+43.0
+Percentage complete is: 
+51.0
+Percentage complete is: 
+58.0
+Percentage complete is: 
+65.0
+Percentage complete is: 
+73.0
+Percentage complete is: 
+80.0
+Percentage complete is: 
+87.0
+Percentage complete is: 
+95.0
+Number of Matches for each keyword:
+Number of matches for keyword number 0 is: 12
+Number of expected matches for that keyword is: 
+0.813780963421
+that keyword is: 
+       AATAGCTAACA
+
+
+
+Number of matches for keyword number 1 is: 1
+Number of expected matches for that keyword is: 
+0.00317883188836
+that keyword is: 
+       ACCAAACTATAGAAT
+
+
+
+Number of matches for keyword number 2 is: 1
+Number of expected matches for that keyword is: 
+1.18420715942e-11
+that keyword is: 
+       CTCTTAATATTTATGAAGAAGAACATGGT
+
+
+
+Number of matches for keyword number 3 is: 8
+Number of expected matches for that keyword is: 
+1.18420715942e-11
+that keyword is: 
+       GCCTGGGTGACAGAGTGAGACCCTGTCTC
+
+
+
