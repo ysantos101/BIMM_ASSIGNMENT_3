@@ -119,6 +119,9 @@ while(m < len(keyword_arr)):
     print '\n'
     m += 1
 
+print 'Array for E-values: '
+print e_vals
+
 
 
 
